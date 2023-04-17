@@ -88,4 +88,4 @@ List.iter (fun x -> Printf.printf "%s\n" x ) ( percorrelista (exprecione input))
 (* COMO COMPILAR *)
 
 (*eval $(opam env)*)
-(* ocamlopt -I f_parser/ f_parser.cmxa ProblemaA.ml -o  abs *)
+(* ocamlopt -I f_parser/ f_parser.cmxa NOR.ml -o  NAME_OF_EXECUTE *)
