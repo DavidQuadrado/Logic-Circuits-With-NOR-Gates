@@ -1,7 +1,7 @@
 # Logic-Circuits-With-NOR-Gates
 Minimal Effort for Maximal Profitability (Lógica Computacional)
 
-
+...
 
 Requirements: 
 
